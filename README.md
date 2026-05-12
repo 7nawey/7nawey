@@ -1,145 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Elhnawey&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20.NET%20Developer%20·%20Cairo%20🇪🇬&descSize=16&descColor=c9d1ff&descAlignY=72" />
+# Mohamed Elhnawey
 
-<br/>
+### Full-Stack .NET Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=a78bfa&center=true&vCenter=true&width=520&lines=⚡+Building+with+ASP.NET+Core+%2B+Angular;🏗️+Clean+Architecture+%7C+SOLID+%7C+CQRS;🎓+ITI+Full-Stack+.NET+Graduate+2025;🎮+Creator+of+a+real-time+multiplayer+game" />
+📧 mohamedelhnawey676@gmail.com | 📞 01200289439 | 🔗 [linkedin.com/in/mohamedElhnawey](https://linkedin.com/in/mohamedElhnawey) | 💻 [github.com/7nawey](https://github.com/7nawey)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=7nawey&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
----
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### 👾 About Me
-
-```yaml
-name:     Mohamed Elhnawey
-role:     Full-Stack .NET Developer
-base:     Cairo, Egypt 🇪🇬
-training: ITI .NET Track — 2024/2025
-status:   Open to opportunities 🟢
-```
-
-🔨 &nbsp;Building scalable apps with **.NET + Angular**  
-🏗️ &nbsp;Passionate about **Clean Architecture**  
-🎮 &nbsp;Built a **real-time multiplayer word game**  
-📚 &nbsp;Always learning, always shipping  
-
-</td>
-<td valign="top" width="45%">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<br/>
-
-**— Backend —**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sqlserver,postman,swagger&theme=dark" />
-
-<br/><br/>
-
-**— Frontend —**
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
-
-<br/><br/>
-
-**— Tools —**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<br/>
+📍 Cairo, Egypt | 🎖️ Military Service – Completed
 
 </div>
 
 ---
 
-### 🚀 Projects
+## 📋 Profile
 
-<div align="center">
-<br/>
-
-<table>
-<tr>
-  <td align="center" width="50%">
-    <h3>🛒 Amazon Clone</h3>
-    <p>Full e-commerce platform with auth, cart & order management</p>
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" />
-    <br/><br/>
-    <i>Clean Architecture · EF Core · ASP.NET Identity</i>
-  </td>
-  <td align="center" width="50%">
-    <h3>🎮 Letter Battle Game</h3>
-    <p>Real-time multiplayer word game with mobile controller support</p>
-    <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-    <br/><br/>
-    <a href="https://horof-game.pages.dev/"><b>▶ Play Now</b></a>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="50%">
-    <h3>💌 Greeting Card Generator</h3>
-    <p>Dynamic personalized card generator from user input</p>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
-    <br/><br/>
-    <a href="https://hawaz-sa.pages.dev/"><b>▶ Try it</b></a>
-  </td>
-  <td align="center" width="50%">
-    <h3>🌐 Personal Portfolio</h3>
-    <p>My dev portfolio — Angular + deployed on Cloudflare Pages</p>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square" />
-    <br/><br/>
-    <a href="https://7nawey-protfolio.pages.dev/"><b>▶ Visit</b></a>
-  </td>
-</tr>
-</table>
-
-</div>
+Full-Stack .NET Developer with hands-on experience building scalable web applications using **ASP.NET Core**, **Angular**, **SQL Server**, and **RESTful APIs**. Trained at the Information Technology Institute (ITI) with strong foundations in software engineering, clean architecture, and database design. Skilled in developing responsive frontend interfaces and secure backend systems with authentication, EF Core, and API integration. Passionate about problem solving, performance optimization, and building user-focused applications.
 
 ---
 
-### 📬 Let's Connect
+## 🛠️ Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C#, JavaScript, TypeScript, SQL |
+| **Frontend** | Angular, HTML5, CSS3, Bootstrap, Responsive Design |
+| **Backend** | ASP.NET Core, ASP.NET MVC, RESTful APIs, SignalR, EF Core, LINQ, Windows Forms, ASP.NET Identity, Layered & Clean Architecture, CQRS |
+| **Database** | SQL Server, Database Design, Query Writing, Optimization, Entity Relationships |
+| **Tools** | Git, GitHub, Visual Studio, SSMS, Postman, Swagger/OpenAPI |
+| **Concepts** | OOP, Data Structures, Design Patterns, Auth & Authorization, Dependency Injection, JWT, SOLID, Repository Pattern, CRUD, API Integration, Agile, Scrum |
+
+---
+
+## 💼 Experience
+
+**Freelance Software Engineer**  
+*04/2024 – Present*  
+- Developed responsive web applications using Angular, TypeScript, HTML5, CSS3, and Bootstrap.  
+- Built reusable frontend components and integrated RESTful APIs for dynamic data handling.  
+- Improved application responsiveness and user experience across desktop and mobile devices.  
+- Collaborated with clients to gather requirements and deliver customized web solutions.
+
+---
+
+## 🚀 Projects
+
+### 🛒 Amazon Clone (E-commerce web application)  
+- Developed a scalable e-commerce platform using ASP.NET Core, Angular, SQL Server, and Entity Framework Core.  
+- Implemented authentication and authorization using ASP.NET Identity.  
+- Built RESTful APIs for product management, shopping cart, and order processing.  
+- Applied Clean Architecture principles to improve maintainability and scalability.  
+- Optimized database queries and application performance using EF Core and LINQ.
+
+### 🌐 Personal Portfolio  
+[7nawey-protfolio.pages.dev](https://7nawey-protfolio.pages.dev/)  
+- Designed and developed a responsive portfolio website using Angular, HTML5, CSS3, and Bootstrap.  
+- Showcased technical projects, skills, and contact information with responsive UI design.  
+- Deployed the application using Cloudflare Pages.
+
+### 🎮 Letter Battle Game (Freelance Project)  
+[horof-game.pages.dev](https://horof-game.pages.dev/)  
+- Developed an interactive multiplayer word game with mobile-controller support.  
+- Implemented real-time communication and round management features.  
+- Designed responsive UI optimized for desktop and mobile gameplay.
+
+### 💌 Greeting Card Generator (Freelance Project)  
+[hawaz-sa.pages.dev](https://hawaz-sa.pages.dev/)  
+- Built a dynamic web application that generates personalized greeting cards based on user input.  
+- Implemented responsive frontend design and interactive UI elements.
+
+---
+
+## 📚 Internships & Training
+
+**Information Technology Institute (ITI)** – Full-stack development using .NET  
+*10/2024 – 04/2025*  
+- Completed intensive training in ASP.NET Core, Angular, SQL Server, and RESTful API development.  
+- Built full-stack projects following Clean Architecture and software engineering best practices.
+
+**National Telecommunication Institute (NTI)** – Cybersecurity & Networking  
+*2021*  
+- Completed a 4-week (120 hours) intensive summer training in cybersecurity, networking fundamentals, and information security.
+
+**Information Technology Institute (ITI)** – .NET Summer Training  
+*2021*  
+- Completed a 72-hour Summer Training course in .NET track.
+
+**Online Technical Courses** – Ethical Hacking, Computer Network Fundamentals, Introduction to Network Security, AI Essentials, Network Basics.
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Software Engineering** – Mansoura University, Faculty of Computers and Information Sciences  
+*2018 – 2022* | Mansoura  
+- **Graduation Project Grade:** A-  
+- Relevant coursework: Data Structures, Algorithms, Database Design, Web Development, Software Engineering.
+
+---
 
 <div align="center">
-<br/>
 
-<a href="https://7nawey-protfolio.pages.dev/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/mohamedElhnawey">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:mohamedelhnawey676@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+*"First, solve the problem. Then, write the code." – John Johnson*
 
 </div>
