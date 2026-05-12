@@ -1,67 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e94560,100:0f3460&height=150&section=header&text=Mohamed%20Elhnawey&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20.NET%20Developer%20·%20Cairo%20🇪🇬&descSize=15&descColor=ffd6e0&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Elhnawey&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20.NET%20Developer%20·%20Cairo%20🇪🇬&descSize=16&descColor=c9d1ff&descAlignY=72" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E94560&center=true&vCenter=true&width=500&lines=⚡+ASP.NET+Core+%2B+Angular+Developer;🏗️+Clean+Architecture+%26+SOLID+Principles;🎓+ITI+Full-Stack+.NET+Graduate;🎮+I+built+a+real-time+multiplayer+game!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=a78bfa&center=true&vCenter=true&width=520&lines=⚡+Building+with+ASP.NET+Core+%2B+Angular;🏗️+Clean+Architecture+%7C+SOLID+%7C+CQRS;🎓+ITI+Full-Stack+.NET+Graduate+2025;🎮+Creator+of+a+real-time+multiplayer+game" />
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=7nawey&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=7nawey&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
-### 🕹️ Who am I?
+### 👾 About Me
 
 ```yaml
-name:      Mohamed Elhnawey
-role:      Full-Stack .NET Developer
-location:  Cairo, Egypt 🇪🇬
-training:  ITI Full-Stack .NET (2024–2025)
-status:    Open to work 🟢
+name:     Mohamed Elhnawey
+role:     Full-Stack .NET Developer
+base:     Cairo, Egypt 🇪🇬
+training: ITI .NET Track — 2024/2025
+status:   Open to opportunities 🟢
 ```
 
-**I love:**
-- 🏗️ Clean Architecture & CQRS patterns
-- 🔗 Building robust RESTful APIs
-- 🎮 Creating fun interactive experiences
-- ♟️ Solving tricky problems
+🔨 &nbsp;Building scalable apps with **.NET + Angular**  
+🏗️ &nbsp;Passionate about **Clean Architecture**  
+🎮 &nbsp;Built a **real-time multiplayer word game**  
+📚 &nbsp;Always learning, always shipping  
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-**Backend & Database**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,postman&theme=dark" />
+**— Backend —**
 
-**Frontend & Tools**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sqlserver,postman,swagger&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,git,github&theme=dark" />
+<br/><br/>
+
+**— Frontend —**
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
+
+<br/><br/>
+
+**— Tools —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 <div align="center">
+<br/>
 
-| 🎯 Project | 💬 What it does | 🔗 |
-|---|---|---|
-| 🛒 **Amazon Clone** | E-commerce platform — auth, cart, orders, Clean Architecture | private repo |
-| 🎮 **[Letter Battle](https://horof-game.pages.net/)** | Real-time multiplayer word game with mobile controller | [▶ Play Now](https://horof-game.pages.dev/) |
-| 💌 **[Card Generator](https://hawaz-sa.pages.dev/)** | Personalized greeting cards generator | [▶ Try it](https://hawaz-sa.pages.dev/) |
-| 🌐 **[Portfolio](https://7nawey-protfolio.pages.dev/)** | My dev portfolio — built with Angular & Cloudflare | [▶ Visit](https://7nawey-protfolio.pages.dev/) |
+<table>
+<tr>
+  <td align="center" width="50%">
+    <h3>🛒 Amazon Clone</h3>
+    <p>Full e-commerce platform with auth, cart & order management</p>
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square" />&nbsp;
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" />
+    <br/><br/>
+    <i>Clean Architecture · EF Core · ASP.NET Identity</i>
+  </td>
+  <td align="center" width="50%">
+    <h3>🎮 Letter Battle Game</h3>
+    <p>Real-time multiplayer word game with mobile controller support</p>
+    <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
+    <br/><br/>
+    <a href="https://horof-game.pages.dev/"><b>▶ Play Now</b></a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <h3>💌 Greeting Card Generator</h3>
+    <p>Dynamic personalized card generator from user input</p>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
+    <br/><br/>
+    <a href="https://hawaz-sa.pages.dev/"><b>▶ Try it</b></a>
+  </td>
+  <td align="center" width="50%">
+    <h3>🌐 Personal Portfolio</h3>
+    <p>My dev portfolio — Angular + deployed on Cloudflare Pages</p>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />&nbsp;
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square" />
+    <br/><br/>
+    <a href="https://7nawey-protfolio.pages.dev/"><b>▶ Visit</b></a>
+  </td>
+</tr>
+</table>
 
 </div>
 
@@ -70,25 +126,20 @@ status:    Open to work 🟢
 ### 📬 Let's Connect
 
 <div align="center">
+<br/>
 
 <a href="https://7nawey-protfolio.pages.dev/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-1a1a2e?style=for-the-badge" />
-</a>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge" />
+</a>&nbsp;
 <a href="https://linkedin.com/in/mohamedElhnawey">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>&nbsp;
 <a href="mailto:mohamedelhnawey676@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:0f3460&height=80&section=footer"/>
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
