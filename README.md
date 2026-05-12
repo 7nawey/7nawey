@@ -34,7 +34,7 @@ Software Engineer focused on building modern web applications using **ASP.NET Co
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,ts,html,css,bootstrap,git,github,sqlserver,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,ts,html,css,bootstrap,git,github,vscode" />
 </p>
 
 <table>
