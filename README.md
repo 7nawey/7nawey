@@ -1,65 +1,82 @@
-<!-- TOP BANNER -->
+<!-- ==================== HEADER ==================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2c5364&text=Mohamed%20Elhnawey&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,100:2c5364&text=Mohamed%20Elhnawey&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+.NET+Developer;Angular+%7C+ASP.NET+Core+%7C+SQL+Server"/>
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<!-- ==================== ABOUT ==================== -->
+
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="60%">
 
-### 💻 Software Engineer
+<td width="55%">
 
-Passionate about building modern and scalable web applications using  
+### Software Engineer & Full-Stack Developer
+
+I build modern web applications using  
 **ASP.NET Core**, **Angular**, and **SQL Server**.
 
-I enjoy creating clean UI designs, developing RESTful APIs,  
-and turning ideas into real-world projects.
-
-- 🚀 Full-Stack Web Development
-- ⚡ Clean & Responsive UI
-- 🧠 Problem Solving
-- 🔥 Continuous Learning
+Focused on creating:
+- ⚡ Fast & responsive interfaces
+- 🧠 Clean backend architecture
+- 🔥 Scalable web applications
+- 🎯 Smooth user experiences
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
 </td>
+
 </tr>
 </table>
 
 ---
+
+<!-- ==================== TECH STACK ==================== -->
 
 # 🛠️ Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,ts,js,html,css,bootstrap,git,github,sqlserver,postman,vscode"/>
+
 </p>
 
 ---
 
-# 🚀 Currently Focused On
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+# 🚀 Current Focus
 
 <table>
 <tr>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+<td width="45%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
 </td>
 
-<td width="60%">
+<td width="55%">
 
-### 🌟 Improving My Skills In
+### Currently Improving
 
 - Advanced Angular Development
 - ASP.NET Core APIs
 - Clean Architecture
+- UI/UX Design
 - Performance Optimization
-- Building Real-World Projects
 
 </td>
 
@@ -68,45 +85,56 @@ and turning ideas into real-world projects.
 
 ---
 
-# ⚡ Fun Fact
+<!-- ==================== CODING SECTION ==================== -->
+
+# ⚡ Coding Lifestyle
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
-### ☕ Coding + Music = Productivity
+### Build • Learn • Improve
 
-I love building interactive web applications  
-and learning new technologies every day.
+I enjoy turning ideas into real applications  
+while continuously learning modern technologies  
+and improving my development workflow.
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<td width="45%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
 </td>
 
 </tr>
 </table>
 
 ---
+
+<!-- ==================== CONNECT ==================== -->
 
 # 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_PROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,100:0f2027"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,100:0f2027"/>
 </p>
