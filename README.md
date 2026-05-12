@@ -1,92 +1,66 @@
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=7nawey&label=Profile%20Views&color=7c3aed&style=flat" alt="views" />
-
-<br>
-
-# Mohamed Elhnawey
-### 💻 Software Engineer | Full-Stack .NET Developer
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mansoura_University-Software_Engineering-blue?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/ITI_Graduate-Full_Stack_.NET-success?style=flat-square&logo=microsoft" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Elhnawey&fontSize=35&fontColor=ffffff" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=a78bfa&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Clean+Architecture+%7C+SOLID+%7C+CQRS;Always+learning%2C+always+building" alt="typing" />
+<p align="center">
+  <b>Software Engineer | Full-Stack Developer (.NET & Angular)</b>
+</p>
 
-<br>
+---
 
-<a href="https://linkedin.com/in/mohamedElhnawey">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime-Game-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Card-Generator-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mohamedelhnawey676@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## 🧬 Digital Ecosystem
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%" align="center">
-  
-### 🎓 Education & Journey
-<br>
-<img src="https://upload.wikimedia.org/wikipedia/ar/0/00/Mansoura_University_logo.png" width="60" alt="Mansoura University" />
-<br>
-<b>Software Engineering</b>
-<br>Mansoura University
-
-<br><br>
-
-<img src="https://iti.gov.eg/assets/images/iti-logo.png" width="60" alt="ITI" />
-<br>
-<b>Full-Stack .NET</b>
-<br>Information Technology Institute (ITI)
-
-</td>
-<td width="50%" align="center">
-
-### 🛠️ Core Mastery
-<br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,angular,ts,js,html,css,bootstrap,git,github,vscode,postman,swagger&perline=5&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=7nawey&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7nawey&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=7nawey&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-</div>
-
----
-
-## 🏁 Final Thought
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicWJpZGRyeWV3bmY4eW9pZ3E1eHpxeHpxeHpxeHpxeHpxeHpxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jpVnC65DmYeyRL4LHS/giphy.gif" width="60%" />
-
-<br>
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
