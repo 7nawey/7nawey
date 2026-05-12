@@ -1,155 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=Mohamed%20Elhnawey&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Elhnawey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20.NET%20Developer%20·%20Cairo%2C%20Egypt%20🇪🇬&descAlignY=55&descSize=16&descColor=00bfbf" />
 
-<h3>Full-Stack .NET Developer • Cairo, Egypt 🇪🇬</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00BFBF&center=true&vCenter=true&width=500&lines=Building+scalable+apps+with+.NET+%26+Angular+⚡;Clean+Architecture+%7C+SOLID+%7C+CQRS+🏗️;ITI+Full-Stack+.NET+Graduate+2025+🎓;Real-time+multiplayer+game+creator+🎮" />
 
-<img src="https://komarev.com/ghpvc/?username=7nawey&label=Profile+Views&color=7c3aed&style=flat" />
+<br/>
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=7nawey&label=Profile+Views&color=00bfbf&style=flat-square" />
 
-<a href="https://linkedin.com/in/mohamedElhnawey" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px"/>
+
+## `> whoami`
+
+```yaml
+name:      Mohamed Elhnawey
+role:      Full-Stack .NET Developer
+location:  Cairo, Egypt 🇪🇬
+training:  ITI – Full-Stack .NET (2024–2025)
+freelance: Active 💼
+status:    Open to work 🟢
+```
+
+💡 Passionate about **Clean Architecture** & design patterns  
+⚙️ Love building **RESTful APIs** with .NET  
+🎮 Created a **real-time multiplayer game** with SignalR  
+📦 Always shipping, always improving  
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,postman&theme=dark&perline=10" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark&perline=10" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=10" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| &nbsp; | Project | Description | Live |
+|:---:|---|---|:---:|
+| 🛒 | **Amazon Clone** | E-commerce platform — auth, cart, orders. Built with Clean Architecture, EF Core & JWT | — |
+| 🎮 | **Letter Battle** | Real-time multiplayer word game with mobile controller via SignalR | [▶ Play](https://horof-game.pages.dev/) |
+| 💌 | **Card Generator** | Dynamic personalized greeting card generator | [▶ Demo](https://hawaz-sa.pages.dev/) |
+| 🌐 | **Portfolio** | Personal dev portfolio deployed on Cloudflare Pages | [▶ Visit](https://7nawey-protfolio.pages.dev/) |
+
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamedElhnawey">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/7nawey" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+&nbsp;
 <a href="mailto:mohamedelhnawey676@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://7nawey-protfolio.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+&nbsp;
+<a href="https://7nawey-protfolio.pages.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-00bfbf?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
-
-Full-Stack .NET Developer focused on building clean, responsive, and scalable web applications.  
-I work with ASP.NET Core, Angular, SQL Server, REST APIs, and modern software architecture patterns.
-
----
-
-## Tech Stack
-
 <div align="center">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,postman&theme=dark" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,swagger&theme=dark" />
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h3>🛒 Amazon Clone</h3>
-
-<!-- Replace with your project screenshot if available -->
-<img src="https://via.placeholder.com/600x320/111827/ffffff?text=Amazon+Clone" width="100%" />
-
-<p>
-E-commerce web application with authentication, cart, orders, and clean architecture.
-</p>
-
-<a href="https://github.com/7nawey" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<h3>🎮 Letter Battle Game</h3>
-
-<img src="https://via.placeholder.com/600x320/111827/ffffff?text=Letter+Battle+Game" width="100%" />
-
-<p>
-Real-time multiplayer word game with mobile controller support.
-</p>
-
-<a href="https://horof-game.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<h3>💌 Greeting Card Generator</h3>
-
-<img src="https://via.placeholder.com/600x320/111827/ffffff?text=Greeting+Card+Generator" width="100%" />
-
-<p>
-Dynamic app for generating personalized greeting cards.
-</p>
-
-<a href="https://hawaz-sa.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square" />
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<h3>🌐 Personal Portfolio</h3>
-
-<img src="https://via.placeholder.com/600x320/111827/ffffff?text=Personal+Portfolio" width="100%" />
-
-<p>
-Minimal portfolio website showcasing projects and contact links.
-</p>
-
-<a href="https://7nawey-protfolio.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Experience
-
-**Freelance Software Engineer**  
-2024 — Present  
-Built responsive web applications, reusable UI components, and API-driven features for client projects.
-
-**ITI Graduate**  
-Full-Stack .NET Track • 2024 — 2025  
-Trained in ASP.NET Core, Angular, SQL Server, Clean Architecture, and practical software development workflows.
-
----
-
-## Education
-
-**B.Sc. in Software Engineering**  
-Mansoura University • Faculty of Computers and Information Sciences
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
